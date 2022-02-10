@@ -1,0 +1,6 @@
+username: ogunb
+packages:
+  - vim
+  - speedtest-cli
+  - tmux
+  - curl
